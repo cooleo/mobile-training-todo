@@ -6,7 +6,7 @@
       "import_docs": "continuous",
       "enable_shared_bucket_access": true,
       "server": "http://54.205.115.158:8091",
-      "bucket": "todo",
+      "bucket": "default",
       "password": "password",
       "users": {
         "user1": {"password": "pass", "admin_channels": ["user1"]},
