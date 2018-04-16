@@ -5,7 +5,7 @@
     "todo": {
       "import_docs": "continuous",
       "enable_shared_bucket_access": true,
-      "server": "http://localhost:8091",
+      "server": "http://54.205.115.158:8091",
       "bucket": "todo",
       "password": "password",
       "users": {
